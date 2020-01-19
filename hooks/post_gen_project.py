@@ -5,7 +5,10 @@ import pathlib
 submodules = [
     "git@github.com:KiCad/kicad-symbols.git",
     "git@github.com:KiCad/kicad-footprints.git",
-    "git@github.com:KiCad/kicad-packages3D.git"
+    "git@github.com:KiCad/kicad-packages3D.git",
+    "git@github.com:ErikFanderson/kicad-custom-symbols.git",
+    "git@github.com:ErikFanderson/kicad-custom-footprints.git",
+    "git@github.com:ErikFanderson/kicad-custom-packages3D.git"
 ]
 
 if __name__=='__main__':
