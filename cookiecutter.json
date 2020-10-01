@@ -1,4 +1,5 @@
 {
     "project": "project",
-    "author": "Erik Anderson"
+    "author": "Erik Anderson",
+    "kicad_libs": "~/repos"
 }
